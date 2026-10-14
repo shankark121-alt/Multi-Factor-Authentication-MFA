@@ -30,3 +30,45 @@ Multi-Factor Authentication (MFA) adds an extra layer of protection on top of yo
 an IAM user must provide their standard credentials (something they know) and a code from their MFA device (something they have) to log in to 
 the AWS Management Console.
 
+# 2. Prerequisites
+
+An active AWS Account.
+
+Administrator access or permissions to manage IAM users and security credentials.
+
+A compatible authenticator app installed on a smartphone or computer (e.g., Google Authenticator, Microsoft Authenticator, Authy) if using a virtual MFA device.
+
+# 3. Step-by-Step MFA User Creation & Setup Guide
+
+# Step 1: Log in to the AWS Management Console
+  Open your browser and navigate to the AWS Management Console[cite: 1].
+
+  Sign in using your administrator credentials.
+
+# Step 2: Navigate to IAM Users
+  In the search bar at the top of the console, type iam and select IAM (Manage access to AWS resources).
+
+  From the left navigation menu under Access management, click on Users.
+
+ <img width="709" height="425" alt="image" src="https://github.com/user-attachments/assets/e4ecbbd8-5ab1-4755-8f17-ae8622bb3526" />
+
+<img width="761" height="418" alt="image" src="https://github.com/user-attachments/assets/d57d4412-eb2e-4ce5-918f-eeb4f177fab0" />
+
+<img width="693" height="359" alt="image" src="https://github.com/user-attachments/assets/0484350b-5929-41e1-8a4d-e49de7e394fa" />
+
+
+# Step 3: Select the Target User
+
+  Locate and click on the name of the specific IAM user (e.g., shankar) for whom you want to configure MFA.
+
+  <img width="707" height="373" alt="image" src="https://github.com/user-attachments/assets/2a7f9739-fbcf-447a-819f-b9d9a2ff8dfd" />
+
+  <img width="698" height="363" alt="image" src="https://github.com/user-attachments/assets/f13d005c-ca7a-4dfa-8826-6f3c61071e30" />
+
+  
+
+
+
+
+
+
