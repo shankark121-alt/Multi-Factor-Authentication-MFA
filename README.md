@@ -65,7 +65,22 @@ A compatible authenticator app installed on a smartphone or computer (e.g., Goog
 
   <img width="698" height="363" alt="image" src="https://github.com/user-attachments/assets/f13d005c-ca7a-4dfa-8826-6f3c61071e30" />
 
+# Step 4: Access Security Credentials
+
+  Once you are on the user's details page, click on the Security credentials tab.
+
+  <img width="711" height="368" alt="image" src="https://github.com/user-attachments/assets/20197bd3-b05c-4dd0-a6c4-e16043e16816" />
+
+# Step 5: Assign an MFA Device
+
+ Scroll down to the Multi-factor authentication (MFA) section.
+
+  Click the Assign MFA device button.
+
+  <img width="701" height="353" alt="image" src="https://github.com/user-attachments/assets/26fd30bf-e37f-4d04-af12-177173463f9b" />
+
   
+
 
 
 
