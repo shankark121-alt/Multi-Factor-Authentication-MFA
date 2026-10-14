@@ -23,3 +23,10 @@ Step 6: Configure Virtual or Hardware MFA
 Step 7: Scan QR Code and Verify Codes
 
 Verification and Testing Login
+
+# 1. Overview
+
+Multi-Factor Authentication (MFA) adds an extra layer of protection on top of your username and password credentials. When MFA is enabled, 
+an IAM user must provide their standard credentials (something they know) and a code from their MFA device (something they have) to log in to the 
+AWS Management Console.
+
