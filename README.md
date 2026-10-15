@@ -79,6 +79,15 @@ A compatible authenticator app installed on a smartphone or computer (e.g., Goog
 
   <img width="701" height="353" alt="image" src="https://github.com/user-attachments/assets/26fd30bf-e37f-4d04-af12-177173463f9b" />
 
+  # Step 6: Select MFA Device Type
+  
+   After clicking Assign MFA device, enter a Device name (e.g., Authenticator-App or Mobile-MFA).
+
+   Select Authenticator app (e.g., Google Authenticator, Microsoft Authenticator, or Authy) as the MFA method.
+
+    Click Next.
+
+
   
 
 
