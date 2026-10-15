@@ -97,26 +97,26 @@ A compatible authenticator app installed on a smartphone or computer (e.g., Goog
 
    <img width="680" height="366" alt="image" src="https://github.com/user-attachments/assets/b7fbf051-f995-4519-ae6e-c74fa133bb3f" />
 
-    <img width="700" height="345" alt="image" src="https://github.com/user-attachments/assets/8cb36b89-7e97-4902-a24a-a435698ee2f6" />
+   <img width="700" height="345" alt="image" src="https://github.com/user-attachments/assets/8cb36b89-7e97-4902-a24a-a435698ee2f6" />
 
-    <img width="602" height="323" alt="image" src="https://github.com/user-attachments/assets/fd66f5d0-d9e8-4175-a523-c5ecb6995a8b" />
+   <img width="602" height="323" alt="image" src="https://github.com/user-attachments/assets/fd66f5d0-d9e8-4175-a523-c5ecb6995a8b" />
 
     # Step 7 : Open the new incognito window by selecting Ctrl + N 
 
-    <img width="602" height="323" alt="image" src="https://github.com/user-attachments/assets/5895f986-80e7-4aae-9923-841ebf9fb55c" />
+   <img width="602" height="323" alt="image" src="https://github.com/user-attachments/assets/5895f986-80e7-4aae-9923-841ebf9fb55c" />
 
     In the address bat type https://1669044935737.singin.aws.amazon.com/console
 
-    <img width="712" height="430" alt="image" src="https://github.com/user-attachments/assets/6dcf8781-e8de-4342-bf2d-e7d8b828e9a2" />
+   <img width="712" height="430" alt="image" src="https://github.com/user-attachments/assets/6dcf8781-e8de-4342-bf2d-e7d8b828e9a2" />
 
     # Step 8 : Set the new password
     
     Password dialog box is open. Type first old password then type new password and confirm password. After click continue and password change.
     Password successfully changed and the new window is open.
 
-    <img width="732" height="446" alt="image" src="https://github.com/user-attachments/assets/141b9ef3-b20b-413b-9aad-648851dcbdb1" />
+   <img width="732" height="446" alt="image" src="https://github.com/user-attachments/assets/141b9ef3-b20b-413b-9aad-648851dcbdb1" />
 
-    <img width="702" height="424" alt="image" src="https://github.com/user-attachments/assets/59863614-c85a-4807-af00-75299c575518" />
+   <img width="702" height="424" alt="image" src="https://github.com/user-attachments/assets/59863614-c85a-4807-af00-75299c575518" />
 
    #  Step 9: Confirm MFA Status
    
@@ -124,7 +124,7 @@ A compatible authenticator app installed on a smartphone or computer (e.g., Goog
 
     Under the Security credentials tab of the IAM user, check that Multi-factor authentication (MFA) status shows Assigned.
 
-    <img width="738" height="430" alt="image" src="https://github.com/user-attachments/assets/c069b524-2747-4ee4-b2f0-e727c518845b" />
+   <img width="738" height="430" alt="image" src="https://github.com/user-attachments/assets/c069b524-2747-4ee4-b2f0-e727c518845b" />
 
    # Conclusion
 
